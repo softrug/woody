@@ -1,7 +1,7 @@
 # 🤖 Woody
 
 <div align="center">
-  <img src="./docs/static/img/bot.jpeg" alt="Woody AI" width="25%" />
+  <img src="./docs/static/img/woody.jpg" alt="Woody AI" width="25%" />
 </div>
 
 <br/>
